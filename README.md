@@ -2,6 +2,7 @@
 # Blog Generator
 
 This repository contains code for a blog generator that uses two different language models, LLama 2 and Gemini Pro, to generate blogs based on user input.
+![blog](./imgs/op.png)
 
 ## LLama 2
 
